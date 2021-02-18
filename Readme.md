@@ -59,8 +59,26 @@ I Changed My Bot Commands Like Following. You Can easily understand by looking a
 # Changing Max Allowed Downloads & Auto Cancel If No Seeders
 :octocat: In Order to Change Max Allowable Torrents at a Time & Auto Cancel If No Seeders are Available, You Have to Edit `aria.sh` file
 
-You can limit maximum concurrent downloads by changing the value of `MAX_CONCURRENT_DOWNLOADS` in `aria.sh` . By default, it's set to 7
+You can limit maximum concurrent downloads by changing the value of `MAX_CONCURRENT_DOWNLOADS` in `aria.sh` file. By default, it's set to 7
 
-You can Set Auto Cancel a Torrent, If No Seeders are Available by changing the value of `--bt-stop-timeout` in `aria.sh` . By default, it's set to 1200   (It means after 1200 Seconds, Torrent will get Auto Canceled)
+You can Set the Bot to Auto Cancel a Torrent, If No Seeders are Available by changing the value of `--bt-stop-timeout` in `aria.sh` file. By default, it's set to 1200.  (By default, It's Set to 1200. It means after 1200 Seconds, Torrent will get Auto Cancelled)
+
+# Customising Bot Message When It Auto Cancels the Torrent
+:octocat: In Order to edit Bot Auto Cancel Message, You Have to Edit `aria2_download.py` file.
+
+You Can Find the `aria2_download.py` file Here ⬇️
+
+```
+MirrorX/bot/helper/mirror_utils/download_utils/aria2_download.py
+or
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/mirror_utils/download_utils/aria2_download.py
+```
+The Line Which You Have to Edit are `Line 65` https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65
+
+### Example: 
+This is How I Modified Auto Cancel Message
+
+![Auto cancel](https://i.ibb.co/qrJmg1p/Auto-Cancel.png)
+
 
 # Customising Bot Status UI
