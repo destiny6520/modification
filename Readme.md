@@ -64,8 +64,10 @@ You can limit maximum concurrent downloads by changing the value of `MAX_CONCURR
 You can Set the Bot to Auto Cancel a Torrent, If No Seeders are Available by changing the value of `--bt-stop-timeout` in `aria.sh` file. By default, it's set to 1200. ( It means after 1200 Seconds, Torrent will get Auto Cancelled)
 ### If You Don't want the Bot To Auto Cancel The Torrent If No Seeders Availabe
 
-You Have to remove  `--bt-stop-timeout=1200` from `Line 17` in `aria.sh` file
-[Line 17](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/aria.sh#L17)
+You Have to remove  `--bt-stop-timeout=1200` from `Line 17` in `aria.sh` file.
+
+[Line 17 Can be Opened from Here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/aria.sh#L17)
+
 See the Below Image and Remove the High Lighted Text from aria.sh
 
 ![no auto cancel](https://i.ibb.co/Pm4kj3F/aria-sh-auto-stop.png)
