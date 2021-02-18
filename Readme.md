@@ -1,4 +1,4 @@
-# A Guide On How To Customise Bot Further for Personal Use.
+# **A Guide On How To Customise Bot Further for Personal Use.
 
 1. [Customising Bot /Start Message](https://github.com/destiny6520/modification#Customising-Bot-Start-Message)
 2. [Customising /help message](https://github.com/destiny6520/modification#Changing-Bot-Commands)
@@ -10,7 +10,7 @@
 8. 
 
 
-# :octocat: Customising Bot /Start Message
+# *Customising Bot /Start Message
 :octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
 
 You Can Find `__main__.py` File Here ⬇️
