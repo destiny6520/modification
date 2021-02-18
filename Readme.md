@@ -62,6 +62,10 @@ I Changed My Bot Commands Like Following. You Can easily understand by looking a
 You can limit maximum concurrent downloads by changing the value of `MAX_CONCURRENT_DOWNLOADS` in `aria.sh` file. By default, it's set to 7
 ### Auto Cancel a Torrent 
 You can Set the Bot to Auto Cancel a Torrent, If No Seeders are Available by changing the value of `--bt-stop-timeout` in `aria.sh` file. By default, it's set to 1200. ( It means after 1200 Seconds, Torrent will get Auto Cancelled)
+### If You Don't want the Bot To Auto Cancel The Torrent If No Seeders Availabe
+
+open the link https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/aria.sh#L17
+You Have to remove `--bt-stop-timeout=1200` from `Line 17` in `aria.sh` file
 
 # Customising Bot Message When Bot Auto Cancels the Torrent Due to No Seeders are Available
 :octocat: In Order to edit Bot Auto Cancel Message, You Have to Edit `aria2_download.py` file.
@@ -92,7 +96,7 @@ MirrorX/bot/__main__.py
 or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
-The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Customise the emojis and Words but Don't Alter the words which in closed with {}
+The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Customise the emojis and Words but Don't Alter the words which in closed with `{ }`
 https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L31
 
 ![stats message](https://i.ibb.co/f0fMtV9/stats.png)
