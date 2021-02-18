@@ -1,6 +1,6 @@
 # A Guide On How To Customise Bot Further for Personal Use.
 
-1. [Customising Bot /start Message](https://github.com/destiny6520/modification#Customising-Bot-start-Message)
+1. [Customising Bot /start Message](https://github.com/destiny6520/modification/modification.md#Customising-Bot-start-Message)
 2. [Changing Bot Commands](https://github.com/destiny6520/modification#Changing-Bot-Commands)
 3. [Changing Max Allowed Downloads & Set Auto Cancel Time If No Seeders Available](https://github.com/destiny6520/modification#Changing-Max-Allowed-Downloads-&-Set-Auto-Cancel-Time-If-No-Seeders-Available)
 4. [Customising Bot Message When Bot Auto Cancels the Torrent Due to No Seeders are Available](https://github.com/destiny6520/modification#Customising-Bot-Message-When-Bot-Auto-Cancels-the-Torrent-Due-to-No-Seeders-are-Available)
