@@ -83,5 +83,16 @@ This is How I Modified Auto Cancel Message.
 
 ![Auto cancel](https://i.ibb.co/qrJmg1p/Auto-Cancel.png)
 
+# Customising Bot Stats Message
+:octocat: In Order to Customise stats Message, You have to Edit few lines in `__main__.py` file. 
+
+You Can Find `__main__.py` File Here ⬇️
+```
+MirrorX/bot/__main__.py
+or
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
+```
+The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Customise the emojis and Words but Don't Alter the words which in closed with {}
+https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L31
 
 # Customising Bot Status UI
