@@ -25,7 +25,7 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 In Order to Customise the way you want the start Message of Bot,  modify  `line 46` & `line 47` from `__main__.py` file 
 
 ### Example :
-Below is the an Example of How You Can Customise
+Below is the Just an Example of How I Customised start message of my Bot. This is Just to Give you an Idea, You can Customise as You like.
 ![final start Message](https://i.ibb.co/pxVxbcX/start-message-final.png)
 
 
