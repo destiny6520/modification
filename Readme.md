@@ -20,9 +20,13 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
 (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+
 ![start Message](https://i.ibb.co/7QmMWjM/start-message-init.png)
 
 In Order to Customise the way you want the start Message of Bot,  modify  `line 46` & `line 47` from `__main__.py` file 
+
+## Example
+
 
 
 
