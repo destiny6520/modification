@@ -2,11 +2,13 @@
 
 1. [Customising Bot /start Message](https://github.com/destiny6520/modification#Customising-Bot-start-Message)
 2. [Changing Bot Commands](https://github.com/destiny6520/modification#Changing-Bot-Commands)
-3. [Changing Max Allowed Downloads at Time](https://github.com/destiny6520/modification#Changing-Max-Allowed-Downloads-at-Time)
-4. [Customising Bot Stats Message]
-5. [Customising Bot Status Message]
-6. [Customising Bot Message After Download Complete]
-8. 
+3. [Changing Max Allowed Downloads & Set Auto Cancel Time If No Seeders Available](https://github.com/destiny6520/modification#Changing-Max-Allowed-Downloads-&-Set-Auto-Cancel-Time-If-No-Seeders-Available)
+4. [Customising Bot Message When Bot Auto Cancels the Torrent Due to No Seeders are Available](https://github.com/destiny6520/modification#Customising-Bot-Message-When-Bot-Auto-Cancels-the-Torrent-Due-to-No-Seeders-are-Available)
+5. [Customising Bot Stats Message](https://github.com/destiny6520/modification#Customising-Bot-Stats-Message)
+6. [Customising Mirror Status](https://github.com/destiny6520/modification#Customising-Mirror-Status)
+7. [Customising Mirror Progress Bar](https://github.com/destiny6520/modification#Customising-Mirror-Progress-Bar)
+8. [Customising Bot status Message](https://github.com/destiny6520/modification#Customising-Bot-status-Message)
+9. [Customising Bot After Download Complete Message](https://github.com/destiny6520/modification#Customising-Bot-After-Download-Complete-Message)
 
 
 # Customising Bot /start Message
