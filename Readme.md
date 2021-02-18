@@ -11,7 +11,7 @@
 
 
 # Customising Bot Start Message
-:octocat: In Order to Customise Bot Start Message You have to Edit bot_commands.py file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+:octocat: In Order to Customise Bot Start Message You have to Edit `bot_commands.py` file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 
     https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/telegram_helper/bot_commands.py
    
