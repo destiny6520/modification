@@ -73,7 +73,7 @@ MirrorX/bot/helper/mirror_utils/download_utils/aria2_download.py
 or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/mirror_utils/download_utils/aria2_download.py
 ```
-The Line Which You Have to Edit are `Line 65` https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65
+The Line Which You Have to Edit is `Line 65` https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65
 
 ### Example: 
 This is How I Modified Auto Cancel Message
