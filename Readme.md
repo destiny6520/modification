@@ -11,11 +11,15 @@
 
 
 # Customising Bot /Start Message
-:octocat: In Order to Customise Bot Start Message You have to Edit `__main__.py` file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
-
+:octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
+Location of `__main__.py`  
 ```
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
+
+The Lines You have to edit are line 46 & 47  (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+
+
 
 # Customising /help message
 :octocat: 
