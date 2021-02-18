@@ -1,12 +1,11 @@
 # A Guide On How To Customise Bot Further for Personal Use.
 
 1. [Customising Bot /start Message](https://github.com/destiny6520/modification#Customising-Bot-start-Message)
-2. [Customising /help message](https://github.com/destiny6520/modification#Changing-Bot-Commands)
-3. [Changing Bot Commands](https://github.com/destiny6520/modification#Changing-Bot-Commands)
-4. [Changing Max Allowed Downloads at Time](https://github.com/destiny6520/modification#Changing-Max-Allowed-Downloads-at-Time)
-5. [Customising Bot Stats Message]
-6. [Customising Bot Status Message]
-7. [Customising Bot Message After Download Complete]
+2. [Changing Bot Commands](https://github.com/destiny6520/modification#Changing-Bot-Commands)
+3. [Changing Max Allowed Downloads at Time](https://github.com/destiny6520/modification#Changing-Max-Allowed-Downloads-at-Time)
+4. [Customising Bot Stats Message]
+5. [Customising Bot Status Message]
+6. [Customising Bot Message After Download Complete]
 8. 
 
 
