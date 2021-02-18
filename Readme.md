@@ -68,7 +68,7 @@ You Have to remove  `--bt-stop-timeout=1200` from `Line 17` in `aria.sh` file.
 
 [Line 17 Can be Opened from Here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/aria.sh#L17)
 
-See the Below Image and Remove the High Lighted Text from aria.sh
+See the Below Image and Remove the High Lighted Text from `aria.sh`
 
 ![no auto cancel](https://i.ibb.co/Pm4kj3F/aria-sh-auto-stop.png)
 
@@ -83,7 +83,7 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/mirror_utils/download_utils/aria2_download.py
 ```
 The Line Which You Have to Edit is `Line 65` 
-[Line 65 can be opened from here}(https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65)
+[Line 65 can be opened from here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65)
 
 ### Example: 
 This is How I Modified Auto Cancel Message.
