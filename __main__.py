@@ -43,10 +43,11 @@ def stats(update, context):
 @run_async
 def start(update, context):
     start_string = f'''
-<b>Hey {update.message.chat.first_name} I'm a Mirror Bot Which Can Mirror Mega.nz Links to Google drive!</b>
-<b>For Any issues Contact My creators :</b> @destinyztd @iamLiquidX
+<b>Hey {update.message.chat.first_name} I'm a Mirror Bot Which Can Mirror all your Torrents, Direct links & Mega.nz Links to Google drive!</b>
+<b>For Any issues Contact My Owners :</b>  @iamLiquidX
 <b>𝐌𝐢𝐫𝐫𝐨𝐫 𝐆𝐫𝐨𝐮𝐩 :</b> Join @DestinyTorrentCloud To Use me
 <b>𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 :</b> Join @DestinyTorrentCloudUpdates
+<b>
 '''
     sendMessage(start_string, context.bot, update)
 
