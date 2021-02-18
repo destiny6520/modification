@@ -55,11 +55,12 @@ I Changed My Bot Commands Like Following. You Can easily understand by looking a
 
 ![Bot_Commands](https://i.ibb.co/fHKCLN5/botcommands.png)
 
-# Changing Max Allowed Downloads & Auto Cancel If No Seeders
+# Changing Max Allowed Downloads & Auto Cancel If No Seeders Available
 :octocat: In Order to Change Max Allowable Torrents at a Time & Auto Cancel If No Seeders are Available, You Have to Edit `aria.sh` file
 
+### Max Allowed Downloads
 You can limit maximum concurrent downloads by changing the value of `MAX_CONCURRENT_DOWNLOADS` in `aria.sh` file. By default, it's set to 7
-
+### Auto Cancel a Torrent 
 You can Set the Bot to Auto Cancel a Torrent, If No Seeders are Available by changing the value of `--bt-stop-timeout` in `aria.sh` file. By default, it's set to 1200.  (By default, It's Set to 1200. It means after 1200 Seconds, Torrent will get Auto Cancelled)
 
 # Customising Bot Message When It Auto Cancels the Torrent
