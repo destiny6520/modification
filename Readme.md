@@ -11,7 +11,12 @@
 
 
 # Customising Bot Start Message
-:octocat: In Order to Customise Bot Start Message You have to Edit this file  (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+:octocat: In Order to Customise Bot Start Message You have to Edit this file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+   ''' start_string = f'''
+This is a bot which can mirror all your links to Google drive!
+Type /{BotCommands.HelpCommand} to get a list of available commands
+''' '''
+
 # Changing Bot Commands
 # Changing Max Allowed Downloads at Time
 # Customising Bot Status UI
