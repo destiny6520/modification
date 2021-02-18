@@ -43,7 +43,7 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 
 ![help](https://i.ibb.co/NpKvxwm/help-init.png)
 # Changing Bot Commands
-:octocat: In Order to Customise Bot Start Message You have to Edit Commands in `bot_commands.py` File.
+:octocat: In Order to Customise Bot Commands, You have to Edit Commands in `bot_commands.py` File.
 You Can Find `bot_commands.py` File Here ⬇️
 ```
 MirrorX/bot/helper/telegram_helper/bot_commands.py
