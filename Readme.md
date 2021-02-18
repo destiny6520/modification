@@ -25,7 +25,8 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 
 In Order to Customise the way you want the start Message of Bot,  modify  `line 46` & `line 47` from `__main__.py` file 
 
-## Example
+### Example :
+
 
 
 
