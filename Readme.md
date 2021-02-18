@@ -158,7 +158,7 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/modules/mirror.py
 ![mirror.py](https://i.ibb.co/JtscvmM/mirror-py-init.png)
 
 ### This Is How I Edited Mine ⬇️
-![mirror.py edited](]https://i.ibb.co/bXrkTRf/mirror-py-edited.png)
+![mirror.py edited](https://i.ibb.co/bXrkTRf/mirror-py-edited.png)
 
 ### Output of Edited Mirror.py file
 ![mirror.py output](https://i.ibb.co/NspTKW7/mirror-py-output.png)
