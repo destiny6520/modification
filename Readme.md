@@ -119,4 +119,21 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils
 
 ![MirrorStatus](https://i.ibb.co/pzYSym7/mirrorstatus.png)
 
-Customising Bot Status UI
+# Customising Mirror Progress Bar
+:octocat: In Order To Customise Mirror Progress Bar, You Have to Edit `Line 27` ,`Line 84` & `Line 87` in `bot_utils.py` file.
+You Can Find `bot_utils.py` File Here ⬇️
+```
+MirrorX/bot/helper/ext_utils/bot_utils.py
+or
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils.p
+```
+[Line 27](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L27)
+In Line 27 Replace `▓` with the character of your Choice. This Character is Seen When Download Completes.
+
+[Line 84](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L84)
+In Line 84 Replace `▓` with the character of your Choice. This Character will Indicate the Downloaded Part.
+
+[Line 87](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L87)
+In Line 84 Replace `░` with the character of your Choice. This Character Will Indicate the Incomplete Download Part
+
+
