@@ -30,6 +30,7 @@ In Order to Customise the way you want the start Message of Bot,  modify  `line 
 
 ### Example :
 Below is the Just an Example of How I Customised start message of my Bot. This is Just to Give you an Idea, You can Customise as You like.
+
 ![final start Message](https://i.ibb.co/pxVxbcX/start-message-final.png)
 
 
@@ -107,7 +108,7 @@ MirrorX/bot/helper/ext_utils/bot_utils.py
 or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils.p
 ```
-🔗 [Line17 to 23](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L17)
+🔗 [Line 17 to 23 can be opened from here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L17)
 
 ![MirrorStatus](https://i.ibb.co/pzYSym7/mirrorstatus.png)
 
