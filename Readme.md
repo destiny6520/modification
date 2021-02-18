@@ -136,4 +136,6 @@ In Line 84 Replace `▓` with the character of your Choice. This Character will 
 [Line 87](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L87)
 In Line 84 Replace `░` with the character of your Choice. This Character Will Indicate the Incomplete Download Part
 
+![Progress Bar](https://i.ibb.co/CWFLLgS/progress-bar.png)
+
 
