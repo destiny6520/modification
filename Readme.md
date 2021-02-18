@@ -18,7 +18,7 @@ MirrorX/bot/__main__.py
 or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
-(https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+[Line 46 can be Opened from here](https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 
 ![start Message](https://i.ibb.co/7QmMWjM/start-message-init.png)
 
@@ -39,7 +39,7 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
 
- (https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78)
+ [Line 78 can be opened from here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78)
 
 ![help](https://i.ibb.co/NpKvxwm/help-init.png)
 # Changing Bot Commands
@@ -82,7 +82,8 @@ MirrorX/bot/helper/mirror_utils/download_utils/aria2_download.py
 or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/mirror_utils/download_utils/aria2_download.py
 ```
-The Line Which You Have to Edit is `Line 65` https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65
+The Line Which You Have to Edit is `Line 65` 
+[Line 65 can be opened from here}(https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/mirror_utils/download_utils/aria2_download.py#L65)
 
 ### Example: 
 This is How I Modified Auto Cancel Message.
@@ -102,7 +103,7 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
 The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Customise the emojis and Words but Don't Alter the words which in closed with `{ }`
-https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L31
+[Line 31 to 39 can be opened from here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L31)
 
 ![stats message](https://i.ibb.co/f0fMtV9/stats.png)
 
