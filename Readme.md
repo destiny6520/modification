@@ -40,9 +40,8 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
 
-    ```
-    https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78
-    ```
+ (https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78)
+
 ![help](https://i.ibb.co/NpKvxwm/help-init.png)
 # Changing Bot Commands
 # Changing Max Allowed Downloads at Time
