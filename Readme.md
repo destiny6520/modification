@@ -13,7 +13,8 @@
 # Customising Bot Start Message
 :octocat: In Order to Customise Bot Start Message You have to Edit this file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 
-    https://github.com/iwestlin/gd-utils
+    https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/telegram_helper/bot_commands.py
+   
 
 # Changing Bot Commands
 # Changing Max Allowed Downloads at Time
