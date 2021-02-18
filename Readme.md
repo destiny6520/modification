@@ -109,7 +109,12 @@ The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Cust
 
 # Customising Mirror Status
 :octocat: In Order To Customise MirrorStatus, You Have to Edit `Line 17` to `Line 23` in `bot_utils.py` file.
-
+You Can Find `bot_utils.py` File Here ⬇️
+```
+MirrorX/bot/helper/ext_utils/bot_utils.py
+or
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils.p
+```
 [Line17 to 23](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/helper/ext_utils/bot_utils.py#L17)
 
 ![MirrorStatus](https://i.ibb.co/pzYSym7/mirrorstatus.png)
