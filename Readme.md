@@ -52,7 +52,8 @@ or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/telegram_helper/bot_commands.py
 ```
 ### Example :
-I Changed My Bot Commands Like Following. You Can See & Understand, Then edit as you want them.
+I Changed My Bot Commands Like Following. You Can easily understand by looking at & edit as you want them.
+
 ![Bot_Commands](https://i.ibb.co/fHKCLN5/botcommands.png)
 
 # Changing Max Allowed Downloads at Time
