@@ -55,7 +55,7 @@ I Changed My Bot Commands Like Following. You Can easily understand by looking a
 
 ![Bot_Commands](https://i.ibb.co/fHKCLN5/botcommands.png)
 
-# Changing Max Allowed Downloads & Auto Cancel If No Seeders Available
+# Changing Max Allowed Downloads & Set Auto Cancel Time If No Seeders Available
 :octocat: In Order to Change Max Allowable Torrents at a Time & Auto Cancel If No Seeders are Available, You Have to Edit `aria.sh` file
 
 ### Max Allowed Downloads
