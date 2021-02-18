@@ -166,3 +166,9 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/modules/mirror.py
 
 ### Output of Edited Mirror.py file from Bot Message
 ![mirror.py output](https://i.ibb.co/NspTKW7/mirror-py-output.png)
+
+
+
+### This is Just a Small Guide using which smal small Customisations can be made in Mirror Bot.
+### I Hope It is Helpful to Beginners
+### If I Missed any Part, You can request for that.
