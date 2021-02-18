@@ -139,7 +139,7 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils
 
 ![Bot Status Message](https://i.ibb.co/QmV34dQ/bot-status-message.png)
 
-### This Is How It Looks ⬇️
+### Example : This Is How It Looks ⬇️
 ![botstatus](https://i.ibb.co/tXfzWH1/bot-status-message-bot.png)
 
 
@@ -154,3 +154,9 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/modules/mirror.py
 🔗 [Line 149](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/modules/mirror.py#L149)
 
 ![mirror.py](https://i.ibb.co/JtscvmM/mirror-py-init.png)
+
+### This Is How I Edited Mine ⬇️
+![mirror.py edited](]https://i.ibb.co/bXrkTRf/mirror-py-edited.png)
+
+### Output of Edited Mirror.py file
+![mirror.py output](https://i.ibb.co/NspTKW7/mirror-py-output.png)
