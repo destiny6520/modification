@@ -15,9 +15,12 @@
 
 You Can Find `__main__.py` File Here ⬇️
 ```
+MirrorX/bot/__main__.py
+or
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
 ![start Message](https://i.ibb.co/7QmMWjM/start-message-init.png)
+
 The Lines You have to edit are line 46 & 47  (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 
 
