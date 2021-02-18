@@ -13,12 +13,13 @@
 # Customising Bot /Start Message
 :octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
 
-You Can Find `__main__.py` Here :down:
+You Can Find `__main__.py` File Here ⬇️
 ```
 https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 ```
-
+[start Message](https://ibb.co/T13j8Yj)
 The Lines You have to edit are line 46 & 47  (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
+
 
 
 
