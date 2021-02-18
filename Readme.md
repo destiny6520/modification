@@ -29,19 +29,6 @@ Below is the Just an Example of How I Customised start message of my Bot. This i
 ![final start Message](https://i.ibb.co/pxVxbcX/start-message-final.png)
 
 
-# Customising /help message
-:octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
-
-You Can Find `__main__.py` File Here ⬇️
-```
-MirrorX/bot/__main__.py
-or
-https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
-```
-
-🔗 [Line 78 can be opened from here](https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78)
-
-![help](https://i.ibb.co/NpKvxwm/help-init.png)
 # Changing Bot Commands
 :octocat: In Order to Customise Bot Commands, You have to Edit Commands in `bot_commands.py` File.
 You Can Find `bot_commands.py` File Here ⬇️
