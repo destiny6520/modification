@@ -13,11 +13,17 @@
 # Customising Bot /Start Message
 :octocat: In Order to Customise Bot Start Message You have to Edit `__main__.py` file (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 
-```https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py```
+```
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
+
+```
 
 # Customising /help message
 :octocat:
-    ```https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78```
+    ```
+    https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78
+    
+    ```
 
 # Changing Bot Commands
 # Changing Max Allowed Downloads at Time
