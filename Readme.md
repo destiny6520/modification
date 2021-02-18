@@ -10,7 +10,7 @@
 8. 
 
 
-# Customising Bot /Start Message
+# :octocat: Customising Bot /Start Message
 :octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
 
 You Can Find `__main__.py` File Here ⬇️
