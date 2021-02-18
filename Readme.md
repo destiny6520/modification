@@ -30,12 +30,15 @@ Below is the an Example of How You Can Customise
 ![final start Message](https://i.ibb.co/pxVxbcX/start-message-final.png)
 
 
-
-
-
-
 # Customising /help message
-:octocat: 
+:octocat: In Order to Customise Bot Start Message You have to Edit few lines in `__main__.py` file. 
+
+You Can Find `__main__.py` File Here ⬇️
+```
+MirrorX/bot/__main__.py
+or
+https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
+```
 
     ```
     https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L78
