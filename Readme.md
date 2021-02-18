@@ -151,3 +151,6 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/helper/ext_utils/bot_utils
 
 ![Bot Status Message](https://i.ibb.co/QmV34dQ/bot-status-message.png)
 
+### This Is How It Looks ⬇️
+![botstatus](https://i.ibb.co/tXfzWH1/bot-status-message-bot.png)
+
