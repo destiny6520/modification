@@ -95,4 +95,6 @@ https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py
 The Lines Which You Have to Edit are from  `Line 31` to `Line 39` . You can Customise the emojis and Words but Don't Alter the words which in closed with {}
 https://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L31
 
+![stats message](https://i.ibb.co/f0fMtV9/stats.png)
+
 # Customising Bot Status UI
