@@ -1,5 +1,3 @@
-# [Add database](https://github.com/SVR666/LoaderX-Bot#adding-database) (only if you are deploying it for the 1st time)
-
 # A Guide On How To Customise Bot Further for Personal Use.
 
 1. [Customising Bot Start Message]
@@ -13,7 +11,7 @@
 
 
 # Customising Bot Start Message
-In Order to Customise Bot Start Message You have to Edit __main__.py filehttps://github.com/iamLiquidX/MirrorX/blob/9b94f800e2e760f5664884d5c43a5dc6e8f55ce4/bot/__main__.py#L46
+:octocat: In Order to Customise Bot Start Message You have to Edit this file  (https://github.com/iamLiquidX/MirrorX/blob/master/bot/__main__.py#L46)
 # Changing Bot Commands
 # Changing Max Allowed Downloads at Time
 # Customising Bot Status UI
